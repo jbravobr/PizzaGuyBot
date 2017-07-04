@@ -1,0 +1,41 @@
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Bot Application.dll.config
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Bot Application.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Bot Application.pdb
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Autofac.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Chronic.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Builder.Autofac.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Builder.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Connector.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Rest.ClientRuntime.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Newtonsoft.Json.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Net.Http.Formatting.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Web.Http.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Web.Http.WebHost.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Autofac.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Rest.ClientRuntime.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Newtonsoft.Json.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Net.Http.Formatting.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Web.Http.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\System.Web.Http.WebHost.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Builder.Autofac.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Builder.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\Microsoft.Bot.Connector.xml
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\obj\Release\Bot Application.dll
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\obj\Release\Bot Application.pdb
+Z:\Projects\PizzaGuyBot\PizzaGuyChaBot\PizzaGuyChaBot\obj\Release\PizzaGuyChaBot.csprojResolveAssemblyReference.cache
